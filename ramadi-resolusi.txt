@@ -4,3 +4,4 @@ Ramadi Resolusi
 - Membuat projek baru dengan framework
 - Menjadi software handal
 - Kolaborasi dengan banyak expert
+- Belajar abanyak framework
